@@ -10,7 +10,7 @@ A burger logger created with MySQL, Node, Express, Handlebars and a homemade ORM
 
 * Your app will store every burger in a MySQL database, whether devoured or not.
 
-[Please click here to visit the site.](https://blooming-savannah-12174.herokuapp.com/)
+[Please click here to visit the site deployed on Heroku.](https://blooming-savannah-12174.herokuapp.com/)
 
 ***
 
