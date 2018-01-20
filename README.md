@@ -8,8 +8,6 @@ A burger logger created with MySQL, Node, Express, Handlebars and a homemade ORM
 
 * Each burger in the waiting area also has a `Devour it!` button. When the user clicks it, the burger will move to the right side of the page.
 
-* Your app will store every burger in a MySQL database, whether devoured or not.
-
 [Please click here to visit the site deployed on Heroku.](https://blooming-savannah-12174.herokuapp.com/)
 
 ***
